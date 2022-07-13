@@ -1,0 +1,12 @@
+{
+  "name": "text",
+  "unique_id": "wcRaJHXC",
+  "parent": "NIqeXzP7",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Hello!"
+  }
+}

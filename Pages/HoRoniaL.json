@@ -1,0 +1,14 @@
+{
+  "name": "navLink",
+  "unique_id": "HoRoniaL",
+  "parent": "XUJ2CW8n",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "navLink",
+  "values": {
+    "Destination": "/",
+    "destination": "/",
+    "linkText": "Home"
+  }
+}

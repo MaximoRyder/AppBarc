@@ -1,0 +1,37 @@
+{
+  "_id": "bhEFciXnGddLIQ4C",
+  "createdAt": 1657747958056,
+  "modifiedAt": 1657747960174,
+  "lastSaved": 1657747960172,
+  "settings": {
+    "name": "AppBarc",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://appbarc_.aptugo.com",
+      "folder": "AppBarc",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://appbarc_.aptugo.com",
+      "folder": "AppBarc_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://AppBarc.aptugo.com:3456",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Local",
+      "url": "https://appbarc.aptugo.com",
+      "folder": "AppBarc",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://AppBarc.aptugo.com:3456",
+      "dbconnectstring": "mongodb://AppBarc:LHzE1aQLkh3hrTMK@127.0.0.1:27017/?authSource=admin",
+      "variables": ""
+    }
+  }
+}

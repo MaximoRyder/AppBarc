@@ -1,0 +1,13 @@
+{
+  "name": "sidebar",
+  "unique_id": "XUJ2CW8n",
+  "parent": "L9WJgg1U",
+  "collapseStatus": "collapse",
+  "cascades": true,
+  "type": "element",
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  }
+}
